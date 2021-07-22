@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: rgb(9, 5, 46);
+    background-color: grey;
     background-image: url ();
     margin-bottom: 40px;
 }
@@ -142,7 +142,7 @@ main img {
     width: 100%;
 }
 
-img.image-enhanced {
+.image-enhanced {
     border-radius: 8px;
 }
 
